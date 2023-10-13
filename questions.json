@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. When using IDLE for Python programming, what color is used to distinguish built-in function names?",
+        "options": ["A. Blue", "B. Green", "C. Purple", "D. Red"],
+        "correct_answer": "C. Purple"
+    },
+    {
+        "question": "2. Which of the following is correct about Python?",
+        "options": ["A. It supports automatic garbage collection.", "B. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java", "C. Both of the above", "D. None of the above"],
+        "correct_answer": "C. Both of the above"
+    },
+    {
+        "question": "3. What built-in function should you use in Python to prompt a user for data input?",
+        "options": ["A. input", "B. cin", "C. prompt", "D. get"],
+        "correct_answer": "A. input"
+    },
+    {
+        "question": "4. Which module in Python supports regular expressions?",
+        "options": ["A. re", "B. regex", "C. pyregex", "D. None of the above"],
+        "correct_answer": "A. re"
+    },
+    {
+        "question": "5. What is the output of the following program :",
+        "options": ["A. True", "B. False", "C. Machine dependent", "D. Error"],
+        "correct_answer": "B. False"
+    },
+    {
+        "question": "6. To start Python from the command prompt, use the command ______",
+        "options": ["A. execute python", "B. go python", "C. python", "D. run python"],
+        "correct_answer": "C. python"
+    },
+    {
+        "question": "7. Which of these is not a core data type?",
+        "options": ["A. Lists", "B. Dictionary", "C. Tuples", "D. Class"],
+        "correct_answer": "D. Class"
+    },
+    {
+        "question": "8. Which of the following functions converts a string to a float in python?",
+        "options": ["A. int(x [,base])", "B. long(x [,base] )", "C. float(x)", "D. str(x)"],
+        "correct_answer": "C. float(x)"
+    },
+    {
+        "question": "9. What is the output of the expression : 3*1**3",
+        "options": ["A. 27", "B. 9", "C. 3", "D. 1"],
+        "correct_answer": "C. 3"
+    },
+    {
+        "question": "10. What is the output of the following program : print '{0:-2%}'.format(1.0 / 3)",
+        "options": ["A. 33.33%", "B. 0.33%", "C. 0.33", "D. 33%"],
+        "correct_answer": "A. 33.33%"
+    },
+    {
+        "question": "11. You can type commands interactively at the Python shell by opening the Python interpreter and starting a:",
+        "options": ["A. Expression", "B. Session", "C. Listing", "D. Object"],
+        "correct_answer": "B. Session"
+    },
+    {
+        "question": "12. Whole numbers in Python are called :",
+        "options": ["A. Complex numbers", "B. Decimals", "C. Floating Point Numbers", "D. Integers"],
+        "correct_answer": "D. Integers"
+    },
+    {
+        "question": "13. You have entered a calculation in the Python interpreter. To see the result of this calculation, which key would you press?",
+        "options": ["A. Spacebar", "B. Tab", "C. Enter (or return)", "D. ="],
+        "correct_answer": "C. Enter (or return)"
+    },
+    {
+        "question": "14. What is the Python prompt?",
+        "options": ["A. >>", "B. >>>", "C. #", "D. ="],
+        "correct_answer": "B. >>>"
+    },
+    {
+        "question": "15. What do you use to associate an object name with an expression in Python?",
+        "options": ["A. Assignment statement", "B. Object space", "C. Key label", "D. Abstract reference"],
+        "correct_answer": "A. Assignment statement"
+    },
+    {
+        "question": "16. What is the name that allows us to locate a python object?",
+        "options": ["A. Algorithm", "B. Assignment", "C. Operand", "D. Variable"],
+        "correct_answer": "D. Variable"
+    },
+    {
+        "question": "17. The turtle method ____ does not take any parameters.",
+        "options": ["A. Forward", "B. Position", "C. Right", "D. Fillcolor"],
+        "correct_answer": "B. Position"
+    },
+    {
+        "question": "18. How many times with a statement be executed in this loop? for i in range(5).",
+        "options": ["A. 0", "B. 1", "C. 5", "D. n"],
+        "correct_answer": "C. 5"
+    },
+    {
+        "question": "19. What is the concatenation operator in Python?",
+        "options": ["A. :", "B. +", "C. ~", "D. *"],
+        "correct_answer": "B. +"
+    },
+    {
+        "question": "20. What function returns the number of characters in a string?",
+        "options": ["A. range", "B. stringlen", "C. length", "D. len"],
+        "correct_answer": "D. len"
+    }
+]

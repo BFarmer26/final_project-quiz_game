@@ -1,0 +1,20 @@
+[
+    {
+        "question": "1. When using IDLE for Python programming, what color is used to distinguish built-in function names?",
+        "options": ["A. Blue", "B. Green", "C. Purple", "D. Red"],
+        "correct_answer": "C. Purple",
+        "explanation": "Incorrect. The correct answer was: C. Purple."
+    },
+    {
+        "question": "2. Which of the following is correct about Python?",
+        "options": ["A. It supports automatic garbage collection.", "B. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java", "C. Both of the above", "D. None of the above"],
+        "correct_answer": "C. Both of the above",
+        "explanation": "Incorrect. The correct answer was: C. The solving of systems of simultaneous linear equations."
+    },
+    {
+        "question": "3. What built-in function should you use in Python to prompt a user for data input?",
+        "options": ["A. input", "B. cin", "C. prompt", "D. get"],
+        "correct_answer": "A. input",
+        "explanation": "Incorrect. The correct answer was: A. input."
+    }
+]
